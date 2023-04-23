@@ -1,9 +1,6 @@
-# HelloWorld
-{HelloWorld}
-
 # Overview
 
-{Repository test to gauge plausibility of git uploads. }
+Repository test to gage plausibility of git uploads.
 
 Hello World in python.
 
@@ -11,6 +8,6 @@ Hello World in python.
 
 # Development Environment
 
-{VSCode and Python were instrumental in this development process.} 
+VSCode and Python were instrumental in this development process.
 
 # Useful Websites
